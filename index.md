@@ -70,5 +70,5 @@ Let's play and/or Q&A
 ___
 Thank You
 
-Cliff Matthews <clifford.t.matthews@gmail.com>
+[Cliff Matthews](https://www.youtube.com/watch?v=B194kgpytOE&t=458s) &lt;[clifford.t.matthews@gmail.com](mailto:clifford.t.matthews@gmail.com)&gt;
 aka [Young Lazy Deadhead](https://ctm.github.io/docs/yld/life/too-public.html)
