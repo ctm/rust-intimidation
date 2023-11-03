@@ -3,6 +3,13 @@ title: Don't Be Intimidated (too much) Learn Rust
 description: Why you may want to learn rust now
 author: Cliff Matthews <clifford.t.matthews@gmail.com>
 ---
+# Don't Be Intimidated
+(too much)
+Learn Rust
+
+Why you may want to learn rust now
+
+---
 # Who am I?
 
 * [Then](https://www.youtube.com/watch?v=ZQvEkVbisr0): [Executor](https://archive.org/details/executor) (C, Objective-C)
